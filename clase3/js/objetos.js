@@ -23,7 +23,7 @@ lineas */
 ;
 
 //Es bueno encapsular el codigo en una función anonima ejecutable
-
+/*
 //Definición o declaración
 function saludo (nombre = 'ICONOS') {
   //Interpolación de variables
@@ -40,7 +40,7 @@ function saludo (nombre = 'ICONOS') {
   //alert(w)
   //alert('Hola')
   //console.log(d, w, 'Hola')
-})(document, window);
+})(document, window);*/
 
 /* Objetos Literales */
 (function (c) {
